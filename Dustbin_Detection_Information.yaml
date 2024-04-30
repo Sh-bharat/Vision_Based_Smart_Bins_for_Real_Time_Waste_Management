@@ -1,0 +1,6 @@
+train: /content/Dataset/Train
+val: /content/Dataset/Test
+
+nc: 1
+names: ['dustbin']
+
